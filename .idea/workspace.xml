@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="14ca2fdf-f378-485d-a3c4-bed0639226c2" name="Changes" comment="">
+    <list default="true" id="14ca2fdf-f378-485d-a3c4-bed0639226c2" name="Changes" comment="Finish">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Files/Task1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Files/Task1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Files/Task2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Files/Task2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Files/words.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Files/words.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task2/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Task3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task3/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +42,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/vitio/IdeaProjects/Work9"
+    "last_opened_file_path": "C:/Users/vitio/IdeaProjects/Work10",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RunManager" selected="Application.Task3.Main">
@@ -93,8 +89,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Task3.Main" />
-        <item itemvalue="Application.Task2.Main" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Task2.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -107,6 +103,14 @@
       <option name="presentableId" value="Default" />
       <updated>1661624598025</updated>
     </task>
+    <task id="LOCAL-00001" summary="Finish">
+      <created>1661805738975</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661805738975</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -119,5 +123,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Finish" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finish" />
   </component>
 </project>
