@@ -11,8 +11,9 @@ public class Main {
     }
     private static void readWords() throws IOException {
         String text = new String(Files.readAllBytes(Path.of("src/Files/words.txt")));
-        text = text.replaceAll("\n", " ");
-        text = text.replaceAll("\r", " ");
+        text = text.replaceAll(System.lineSeparator(), " ");
+
+        System.lineSeparator();
         HashMap<String, Integer> wordsStat = new HashMap<>();
 
         String[] words = text.split(" ");
